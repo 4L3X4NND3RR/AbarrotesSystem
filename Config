@@ -1,0 +1,11 @@
+#un comentario
+#Thu Jul 12 21:16:19 PDT 2018
+IVA=12
+Username=root
+CorteCaja=1169.6403
+NombreBD=SistemaVentas
+RangoStock=15
+Password=rootserver
+Puerto=3306
+NameServer=localhost
+RangoDias=15
