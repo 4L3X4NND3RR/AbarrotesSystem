@@ -1,4 +1,5 @@
 # AbarrotesSystem
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <p>Sistema de ventas con java swing</p>
 
 [Ayuda](https://github.com/4L3X4NND3RR/AbarrotesSystem/tree/main/src/Ayuda)
@@ -14,4 +15,4 @@
 
 ![Screenshot](/Screenshot.png "Screenshot")
 
- [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
