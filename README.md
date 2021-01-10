@@ -1,6 +1,7 @@
 # AbarrotesSystem
 <p>Sistema de ventas con java swing</p>
-Ayuda sobre el sistema [link](https://github.com/4L3X4NND3RR/AbarrotesSystem/tree/main/src/Ayuda "link").
+
+[Ayuda](https://github.com/4L3X4NND3RR/AbarrotesSystem/tree/main/src/Ayuda)
 
 <p>El sistema cuenta con:</p>
 <ol>
